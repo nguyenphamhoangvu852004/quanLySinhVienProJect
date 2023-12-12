@@ -1,1 +1,1 @@
-# quanLySinhVienProJect
+# quanLySinhVien-JAVA
